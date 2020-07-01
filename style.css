@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    font-family: 'Open Sans', sans-serif; 
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    text-align: left;
+    color: dimgray;
+}
+.name-hilight{
+    color:rgb(204, 74, 70) ;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 70px;
+
+}
+.half-width img{
+    width: 100%;
+   
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    background-image:  linear-gradient(360deg,rgb(52, 214,206), darkcyan);
+    background-color: darkcyan;
+    padding: 10px 20px ;
+    border-radius: 10px;
+    text-align: center;
+  
+}
+section{
+    height: 650px;
+}
+.banar-siz h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.top-banar{
+    background-image: url("imag/header-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bio-part{
+    background-image: url("imag/biography-bg.png");
+    background-repeat: no-repeat;
+    background:cover;
+    background-size: cover;
+}
+.banar-siz{
+    background-image: url(imag/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.latest-work h1{
+    text-align: center;
+}
+.latest-work-img{
+    text-align: center;
+}
+.me{
+    height: auto;
+    width: 25%;
+    padding-top: 10%;
+    padding-left: 2%;
+
+}
+.latest-work{
+    background-image: url(imag/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.footer-part{
+    background-image: url(imag/footer-bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.footer-title{
+    text-align: center;
+    padding: 20px 0px;
+}
+.client{
+    text-align: center;
+}
+.client-post{
+    text-align: center;
+}
+
+.client-review{
+    text-align: center;
+    margin: 40px 0px;
+    margin-bottom: 20px;
+    font-size: 25px;
+}
+.gmail{
+    font-size: 25px;
+   color: white;
+   text-decoration: none;
+}
+.mail-tex{
+    font-size: 15px;
+    color: gainsboro;
+    font-weight: 8px;
+}
+.footer-link-button{
+    text-align: center;
+    text-decoration: none;
+    font-size: 20opx;
+    color: white;
+    font-weight: 600;
+    background-attachment: darkcyan;
+    margin: 0px 350px;
+    padding: 30px 20px;
+    border-radius: 10px;
+    background-image: linear-gradient(360deg,rgb(52, 214,206), darkcyan);
+}
+.reserved{
+    text-align: center;
+    font-size: w15px;
+}
